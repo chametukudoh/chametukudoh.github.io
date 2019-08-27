@@ -1,0 +1,342 @@
+
+@font-face {
+    font-family: myJunctionRegular;
+    src: url(../ChinguTire1Task/fonts/Junction-regular.otf);
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+overflow-x: hidden;
+font-size: 14px;
+font-family: myJunctionRegular;
+
+}
+h1,h4,h2{
+    font-family: myJunctionRegular;
+}
+
+.parrallex-one {
+background-image: url("../ChinguTire1Task/img1/bg-1.jpg");   
+left: 0px;
+top:1846.1px;
+width: 1421px;
+height: 600px;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 15px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #383e4c;
+  color: #fff;
+  } 
+
+  li {
+  float: left;
+  width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+  
+  }
+
+ 
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 10px 2px 10px 100px;
+    color: #fff;
+    border: solid 0.2px;
+    border-color: none;
+    
+
+
+  } 
+  
+  .section1text h4 {
+color: #fff;
+font-size: 25px;
+text-shadow: 1px 1px #333;
+  }
+
+  .section1text h1{
+      color: #fff;
+      font-size: 70px;
+      text-transform: uppercase;
+      text-shadow: 2px 2px #000;
+  }
+
+  .section1text{
+
+    text-align: center;
+    padding-top: 250px;
+  }
+
+  .grid-containerA {
+
+    display: grid;
+    grid-template-columns: 360px 360px 360px;
+    grid-template-rows: 450px;
+    padding: 50px 20px 20px 150px;
+    box-sizing: border-box;
+    grid-column-gap: 50px;
+
+  }
+
+  .grid-containerColor{
+
+    background-color: #F2F2F2;
+    border: solid 0px;
+    border-color: none;
+  }
+
+  .green-btn{
+    
+    background-color: green;
+    color: #fff;
+    display: block;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin: 30px 60px;
+    font-size: 18px;
+
+  }
+
+  .blue-btn{
+    background-color: #1686c1;
+    color: #fff;
+    display: block;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin: 30px 60px;
+    font-size: 18px;
+
+
+  }
+
+
+  .grey-btn{
+    background-color:#666666;
+    color: #fff;
+    display: block;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin: 30px 60px;
+    font-size: 18px;
+
+  }
+
+  .grid-downmove{
+ 
+    margin-top: 20px;
+
+  }
+
+  .grid-containerB {
+    display: grid;
+    grid-template-columns: 555px 555px;
+    grid-template-rows: 500px;
+    padding: 50px 20px 20px 150px;
+    box-sizing: border-box;
+    grid-column-gap: 60px;
+
+  }
+
+  .grid-container2Color {
+
+    background-color: #F2F2F2;
+    border: solid 0px;
+    border-color: none;
+    
+  }
+
+  .parrallex-two {
+    background-image: url("../ChinguTire1Task/img1/bg-1a.jpg");   
+    left: 0px;
+    top:1846.1px;
+    width: 1421px;
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    
+    .parallex-twoText p {
+        color: #fff;
+        font-size: 25px;
+        text-shadow: 1px 1px #333;
+          }
+        
+          .parallex-twoText h1{
+              color: #fff;
+              font-size: 70px;
+              text-transform: uppercase;
+              text-shadow: 2px 2px #000;
+          }
+
+          .parallex-twoText {
+
+            text-align: center;
+            padding-top: 250px;
+          }
+
+          .grid-containerC {
+
+            display: grid;
+            grid-template-columns: 260px 260px 260px 260px;
+            grid-template-rows: 520px;
+            padding: 50px 20px 20px 150px;
+            box-sizing: border-box;
+            grid-column-gap: 50px;
+
+          }
+
+          .image4-1 {
+            width: 1140px;
+            margin-left: 150px;
+
+          }
+    .containerServices {
+        
+        width: 1200px;
+        background-color: #F2F2F2;
+        border: solid 0px;
+        border-color: none;
+        margin: -25px 20px 20px 150px;
+        height: 250px;
+
+    }
+
+    .white-btn{
+        background-color:white;
+        color: #666666;
+        display: block;
+        height: 30px;
+        width: 120px;
+        border-radius: 10px;
+        padding: 10px 30px;
+        margin: 30px 60px;
+        font-size: 18px;
+
+    }
+
+    .parrallex-three{
+            background-image: url("../ChinguTire1Task/img1/bg-1b.jpg");   
+            left: 0px;
+            top:1846.1px;
+            width: 1421px;
+            height: 450px;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+
+    }
+    
+    .parallex-threeHeader {
+        color: #fff;
+        font-size: 30px;
+        text-transform: uppercase;
+        text-shadow: 2px 2px #333;
+        text-align: center;
+        padding-top: 95px;
+    }
+
+    .parallex-threebody {
+
+        color: #fff;
+        font-size: 16px;
+        text-align: center;
+        padding-top: 25px;
+    }
+
+    .inputWidth {
+width: 350px;
+
+    }
+
+ .formTextarea{
+display: inline;
+position: relative;
+left: 300px;
+top: -110px;
+ }
+
+
+ .form-btn{
+    
+    background-color: #383e4c;
+    color: #fff;
+    display: block;
+    height: 30px;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 5px 20px;
+    font-size: 18px;
+    margin-top: -30px;
+
+  }
+ 
+
+ .footer-zone {
+    color: #666;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 25px;
+    margin-top: 35px;
+    width: 700px ;
+    margin-left: auto ;
+    margin-right: auto ;
+
+
+
+ }    
+
+ .footer-zoneA p {
+
+    font-size: 18px;
+    text-align: center;
+    padding-top: 20px;
+ }
+
+ hr {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 1px solid #eee;
+    width: 100%;
+ }
+
+ .copyright p {
+
+font-size: 12px;
+margin-bottom: 30px;
+margin-top: 10px;
+text-align: center;
+padding-top: 40px;
+ }
