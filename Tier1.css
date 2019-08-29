@@ -20,7 +20,7 @@ h1,h4,h2{
 }
 
 .parrallex-one {
-background-image: url("../img1/bg-1.jpg");   
+background-image: url("./img1/bg-1.jpg");   
 left: 0px;
 top:1846.1px;
 width: 1421px;
@@ -172,7 +172,7 @@ text-shadow: 1px 1px #333;
   }
 
   .parrallex-two {
-    background-image: url("../img1/bg-1a.jpg");   
+    background-image: url("./img1/bg-1a.jpg");   
     left: 0px;
     top:1846.1px;
     width: 1421px;
@@ -244,7 +244,7 @@ text-shadow: 1px 1px #333;
     }
 
     .parrallex-three{
-            background-image: url("../img1/bg-1b.jpg");   
+            background-image: url("./img1/bg-1b.jpg");   
             left: 0px;
             top:1846.1px;
             width: 1421px;
