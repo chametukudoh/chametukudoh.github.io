@@ -14,7 +14,7 @@ It also has the following pages:
 ## Running the project 
 hahahahaha. I think you have to create a branch and clone first to your system to contribute to this project.
 
-To run the project, [the live link is deployed] at ()
+To run the project, [click here] the live link is deployed at (https://chametukudoh.github.io/)
 
 
 
