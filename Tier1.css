@@ -87,7 +87,7 @@ text-shadow: 1px 1px #333;
     padding-top: 250px;
   }
 
-  .grid-containerA {
+  #grid-containerA {
 
     display: grid;
     grid-template-columns: 360px 360px 360px;
